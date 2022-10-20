@@ -1,1 +1,1 @@
-a task on singly linked list
+Solutions to tasks on singly linked lists
